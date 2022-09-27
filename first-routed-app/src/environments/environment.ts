@@ -3,8 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
-};
+  production: false,
+  oauthToken: "Bearer BQBQdpgneJLCMxfCGflR-ShGuMV2y28P8y-u-aW3x5g3u7LHDSXP7iTvnst8L7YBPpPIe_7r3ctZaJG5suSA7ZIRyYyzpQzpGp_qIk6I5aYF9qxcNuXGI_D3lXnorc89lkWdNG4yE42h26IUiDXpic3fYMrxgWs9KPVPMDnktJJnFiyLB7mxkfcUyrAWZoE"
+}
 
 /*
  * For easier debugging in development mode, you can import the following file
